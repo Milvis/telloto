@@ -1,0 +1,10 @@
+C:\Users\v15nitro\Documents\Visual Studio 2017\Projects\_2018_03_16_pirma_uzduotis\_2018_03_16_pirma_uzduotis\bin\Debug\_2018_03_16_pirma_uzduotis.exe.config
+C:\Users\v15nitro\Documents\Visual Studio 2017\Projects\_2018_03_16_pirma_uzduotis\_2018_03_16_pirma_uzduotis\bin\Debug\_2018_03_16_pirma_uzduotis.exe
+C:\Users\v15nitro\Documents\Visual Studio 2017\Projects\_2018_03_16_pirma_uzduotis\_2018_03_16_pirma_uzduotis\bin\Debug\_2018_03_16_pirma_uzduotis.pdb
+C:\Users\v15nitro\Documents\Visual Studio 2017\Projects\_2018_03_16_pirma_uzduotis\_2018_03_16_pirma_uzduotis\obj\Debug\_2018_03_16_pirma_uzduotis.Form1.resources
+C:\Users\v15nitro\Documents\Visual Studio 2017\Projects\_2018_03_16_pirma_uzduotis\_2018_03_16_pirma_uzduotis\obj\Debug\_2018_03_16_pirma_uzduotis.Properties.Resources.resources
+C:\Users\v15nitro\Documents\Visual Studio 2017\Projects\_2018_03_16_pirma_uzduotis\_2018_03_16_pirma_uzduotis\obj\Debug\_2018_03_16_pirma_uzduotis.csproj.GenerateResource.cache
+C:\Users\v15nitro\Documents\Visual Studio 2017\Projects\_2018_03_16_pirma_uzduotis\_2018_03_16_pirma_uzduotis\obj\Debug\_2018_03_16_pirma_uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\v15nitro\Documents\Visual Studio 2017\Projects\_2018_03_16_pirma_uzduotis\_2018_03_16_pirma_uzduotis\obj\Debug\_2018_03_16_pirma_uzduotis.exe
+C:\Users\v15nitro\Documents\Visual Studio 2017\Projects\_2018_03_16_pirma_uzduotis\_2018_03_16_pirma_uzduotis\obj\Debug\_2018_03_16_pirma_uzduotis.pdb
+C:\Users\v15nitro\Documents\Visual Studio 2017\Projects\_2018_03_16_pirma_uzduotis\_2018_03_16_pirma_uzduotis\obj\Debug\_2018_03_16_pirma_uzduotis.csprojResolveAssemblyReference.cache
